@@ -864,6 +864,7 @@
         #loading-screen.hidden { opacity: 0; pointer-events: none; }
         .loading-sam-wrapper { animation: float 2s ease-in-out infinite; }
         .logo { width: 90px; height: 90px; object-fit: contain; }
+        .ic{ width: 90px; height: 90px; object-fit: contain;}
         @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
         .loading-title {
             font-size: clamp(32px, 10vw, 52px);
@@ -1006,7 +1007,7 @@
 <body>
     <!-- Loading Screen -->
     <div id="loading-screen">
-        <div class="loading-sam-wrapper"><img src="/icone.png" class="logo" onerror="this.style.fontSize='80px';this.outerHTML='<span style=font-size:80px>🧠</span>'"></div>
+        <div class="loading-sam-wrapper"><img src="" class="logo" onerror="this.style.fontSize='80px';this.outerHTML='<span style=font-size:80px></span>'"><img src="/icone.png" class="ic"></div>
         <div class="loading-title">LIFEOS</div>
         <div class="loading-bar-track"><div class="loading-bar-fill"></div></div>
         <div id="loading-status-text">Inicializando...</div>
