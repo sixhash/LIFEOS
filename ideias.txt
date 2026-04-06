@@ -1,0 +1,15 @@
+--MELHORIAS--
+responsividade de modo geral 
+principalmente da tela de carregamento
+dashboard -> mais informações sem bagunçar
+tarefas -> mais a frente ia que adiciona tarefas com o falar
+metas -> com oque esta relacionado ("Treino","Financeiro","Habitos","outros") e conforme sendo tudo bem feito essas metas vao sendo melhoradas
+Habitos -> ok
+Financeiro -> ok
+Treino -> selecionar algumas opções ("iniciar", "Editar", "Criar") ao escolher mostrar as opções ("Superior1....") se para iniciar, se para editar ou Criar o  famoso crud de uma forma mais organizada
+GoDrink -> melhorar o audio adicionar notificações mesmo quando fechado, som constante ate a resposta do usuario
+
+
+--PARA ADICIONAR--
+Rotina -> campo que monto tudo ("Treinos, habitos,metas e tarefas") claro que ser tudo opcional, e essas informações vao para os campos selecionados (exemplo falado de mais ou menos oque eu quero: uma parte onde eu seleciono o campo "treino, habito..." selecionar um horario para um despertador como o do GoDrink, os dias "Seg, ter, quar..." se for treino, selecionar o tipo "Superior1..." se for metas, por ao que tipo esta sendo relacionado ) se por acaso o despertador da rotina estiver junto com o do goDrink, jogar o de beber agua para 1 min depois, apos isso tudo quando salvar a rotina isso ficar ligado ate que eu desative a rotina, crie outra rotina ou edite
+
